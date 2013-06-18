@@ -1,0 +1,12 @@
+{
+  "name": "underscore.string",
+  "repo": "epeli/underscore.string",
+  "description": "Javascript lacks complete string manipulation operations. This an attempt to fill that gap. List of build-in methods can be found for example from Dive Into JavaScript.",
+  "version": "2.3.0",
+  "dependencies": {},
+  "keywords": [],
+  "main": "lib/underscore.string.js",
+  "scripts": [
+    "lib/underscore.string.js"
+  ]
+}
